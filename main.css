@@ -78,6 +78,7 @@ a{
 }
 h1{
     font-family: Unbounded;
+    z-index: 1;
 font-size: 64px;
 font-weight: 700;
 line-height: 72px;
